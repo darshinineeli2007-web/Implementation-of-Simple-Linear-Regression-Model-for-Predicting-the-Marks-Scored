@@ -8,7 +8,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. import the needed packages.
+1.import the needed packages.
 
 2.Assigning hours to x and scores to y.
 
